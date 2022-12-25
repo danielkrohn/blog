@@ -1,0 +1,5 @@
+baseURL = 'https://danielkrohn.github.io/blog'
+languageCode = 'en-us'
+title = "Daniel Krohn's Blog"
+theme="risotto"
+sectionPagesMenu = "main"
